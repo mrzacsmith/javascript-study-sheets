@@ -57,9 +57,6 @@ As new material is added to the repository, you can keep your local copy up-to-d
 - **Stay Informed**:
   Regularly check the repository for new updates and material to enhance your learning experience.
 
----
-
-This repository is maintained and updated regularly to provide the best learning experience for Bloomtech Web Development students. If you have any suggestions, improvements, or additional resources that you think would benefit your fellow students, feel free to contribute by forking the repository, making your changes, and submitting a pull request.
 
 Happy coding! 🌟
 
