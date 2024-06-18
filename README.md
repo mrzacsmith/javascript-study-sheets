@@ -13,6 +13,6 @@
    - [CONSTRUCTORS](/sprint-3/CONSTRUCTORS.md)
    - [DESTRUCTURING](/sprint-3/DESTRUCTURING.md)
    - [FILTER METHOD](/sprint-3/FILTER.md)
-   - [FOREACT METHOD](/sprint-3/FOREACH.md)
+   - [FOREACH METHOD](/sprint-3/FOREACH.md)
    - [MAP METHOD](/sprint-3/MAP.md)
    - [TERNARY FUNCTION](/sprint-3/TERNARY.md)
