@@ -65,8 +65,6 @@ Happy coding! 🌟
 
 **Maintained by [MrZacSmith](https://github.com/mrzacsmith)**
 
-For questions or support, you can reach out through the issues section or contact [support@bloomtech.com](mailto:support@bloomtech.com).
-
 ---
 
 *This repository is here to support your educational journey at Bloomtech. Make the most of these resources.*
