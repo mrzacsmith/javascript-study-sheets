@@ -1,0 +1,51 @@
+### Key JavaScript Concepts
+
+- **Arrow function syntax**
+  - Shorter syntax for writing functions.
+- **Array filtering**
+  - Creating a new array with elements that meet specific criteria.
+- **Array iteration**
+  - Looping through each element in an array.
+- **Array transformation**
+  - Applying a specific operation to each element in an array to create a new array.
+- **Callback function**
+  - A function passed into another function as an argument.
+- **Class**
+  - A blueprint for creating objects.
+- **Conciseness**
+  - Writing code in a compact and efficient manner.
+- **Conditional logic**
+  - Using conditions to determine which code to execute.
+- **Constructor**
+  - A special method for creating and initializing objects created with a class.
+- **Data manipulation**
+  - Changing or using data in different ways.
+- **Element inclusion**
+  - Adding elements that meet specific criteria to a new array.
+- **Element operation**
+  - Performing operations on elements of an array.
+- **Encapsulation**
+  - Bundling data and methods that operate on the data within one unit, such as a class.
+- **Implicit return**
+  - Automatically returning a value without using the `return` keyword.
+- **Instance**
+  - An individual object created using a class.
+- **Method**
+  - A function defined within a class.
+- **New array creation**
+  - Creating a new array from an existing array.
+- **`new` keyword**
+  - Used to create an instance of an object from a class.
+- **Parameter**
+  - A variable in a function definition that receives a value.
+- **Property**
+  - A value associated with an object.
+- **Side effects**
+  - When a function affects something outside its scope.
+- **State management**
+  - Managing the state of an application or component.
+- **`this` keyword**
+  - Refers to the current instance of a class.
+- **Truthy value**
+  - A value that evaluates to true in a Boolean context.
+
